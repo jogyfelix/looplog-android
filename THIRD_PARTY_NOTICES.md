@@ -1,6 +1,6 @@
 # Third-party notices
 
-This portfolio snapshot includes third-party libraries and assets governed by their own licenses.
+This project includes third-party libraries and assets governed by their own licenses.
 
 ## Fonts
 
