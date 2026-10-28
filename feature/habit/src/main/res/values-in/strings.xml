@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_habit">Tambah Kebiasaan</string>
+    <string name="widget_add_habit_description">Tambah kebiasaan baru dalam hitungan detik</string>
+    <string name="widget_toggle_habit_description">Tetap konsisten dengan memperbarui kebiasaan kapan saja</string>
+    <string name="loading">Memuat…</string>
+    <string name="habit_name">Nama Kebiasaan</string>
+    <string name="details">Detail</string>
+    <string name="set_time_optional">Atur Waktu (Opsional)</string>
+    <string name="remove_time">Hapus Waktu</string>
+    <string name="time_reminder">Waktu yang diatur akan mengirimkan pengingat kepada Anda</string>
+    <string name="save_habit">Simpan Kebiasaan</string>
+    <string name="longest_streak">Streak Terpanjang : %1$s</string>
+    <string name="choose_time">Pilih Waktu</string>
+    <string name="set_time">Atur Waktu</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="repeat_on">Ulangi Pada</string>
+    <string name="every_day">Setiap Hari</string>
+    <string name="enter_a_habit_name">Masukkan nama kebiasaan</string>
+    <string name="select_at_least_one_day">Pilih setidaknya satu hari</string>
+    <string name="habit_saved">Kebiasaan disimpan</string>
+    <string name="add">Tambah</string>
+    <string name="new_habit">Kebiasaan Baru</string>
+    <string name="select_date">Pilih Tanggal</string>
+    <string name="delete_habit">Hapus kebiasaan?</string>
+    <string name="delete_habit_desc">Ini akan menghapus kebiasaan dan semua kemajuan. Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="dismiss">Tutup</string>
+    <string name="ai_habit_model_loading">Memuat model AI di perangkat…</string>
+    <string name="ai_habit_query_too_short">Masukkan setidaknya 5 karakter untuk membuat saran</string>
+    <string name="ai_habit_english_only_title">Untuk Saat Ini Hanya Bahasa Inggris</string>
+    <string name="ai_habit_english_only_error">Pembuatan kebiasaan dengan AI saat ini hanya mendukung bahasa Inggris. Coba tulis tujuan yang lebih panjang dalam bahasa Inggris.</string>
+    <string name="ai_habit_input_placeholder">Masukkan tujuan Anda</string>
+    <string name="ai_habit_error_title">Tidak Dapat Memahami Tujuan Itu</string>
+    <string name="ai_habit_error_body">Demi keamanan dan kesederhanaan, asisten lokal kami tidak memproses permintaan tersebut. Coba tulis ulang tujuan Anda.</string>
+    <string name="ai_habit_error_try_again">Coba Lagi</string>
+    <string name="ai_habit_error_content_description">Kesalahan saat membuat kebiasaan</string>
+    <string name="ai_habit_close">Tutup</string>
+    <string name="ai_habit_suggestions_disclaimer">AI dapat membuat kesalahan. Periksa saran sebelum melanjutkan.</string>
+    <string name="ai_habit_suggestions_generated">SARAN CERDAS TELAH DIBUAT</string>
+    <string name="ai_habit_empty_content_description">Tidak ada kebiasaan yang ditemukan</string>
+    <string name="ai_habit_empty_title">Apa yang ingin Anda tingkatkan?</string>
+    <string name="ai_habit_empty_body">Mulailah dengan apa pun yang ingin Anda ubah, bangun, atau lakukan dengan lebih konsisten.</string>
+    <plurals name="ai_habit_add_selected">
+        <item quantity="other">Tambahkan %1$d Kebiasaan</item>
+    </plurals>
+    <string name="ai_notice_title">Sebelum menggunakan AI</string>
+    <string name="ai_notice_intro">looplog menggunakan AI di perangkat untuk membantu mengubah tujuan Anda menjadi kebiasaan praktis.</string>
+    <string name="ai_notice_mistakes_title">AI dapat membuat kesalahan</string>
+    <string name="ai_notice_mistakes_body">Saran mungkin tidak akurat, tidak sesuai, atau tidak lengkap. Tinjau setiap saran sebelum menambahkannya. Jangan mengandalkan fitur ini untuk nasihat medis, kesehatan mental, hukum, keuangan, atau profesional lainnya.</string>
+    <string name="ai_notice_on_device_title">Diproses di perangkat Anda</string>
+    <string name="ai_notice_on_device_body">Tujuan dan saran yang dihasilkan diproses di perangkat Anda. looplog tidak mengirimkan isinya ke server atau menyertakannya dalam analitik maupun laporan kesalahan.</string>
+    <string name="ai_notice_sensitive_title">Lindungi informasi Anda</string>
+    <string name="ai_notice_sensitive_body">looplog tidak meminta informasi pribadi atau sensitif. Hindari memasukkan informasi yang tidak ingin Anda proses di perangkat.</string>
+    <string name="ai_notice_models">Tergantung perangkat Anda, fitur ini menggunakan Gemini Nano atau model Gemma 3 yang diinstal secara lokal.</string>
+    <string name="ai_notice_telemetry">looplog mengumpulkan peristiwa teknis AI, seperti apakah pembuatan berhasil dan berapa lama prosesnya, tanpa mengumpulkan tujuan atau saran yang dihasilkan.</string>
+    <string name="ai_notice_acknowledgement">Dengan melanjutkan, Anda menyatakan telah memahami pemberitahuan AI ini. Penggunaan looplog tetap tunduk pada Ketentuan Layanan.</string>
+    <string name="ai_notice_continue">Saya mengerti, lanjutkan</string>
+    <string name="ai_notice_not_now">Jangan sekarang</string>
+    <string name="ai_notice_privacy_policy">Kebijakan Privasi</string>
+    <string name="ai_notice_terms">Ketentuan Layanan</string>
+    <string name="habit_load_error">Tidak dapat memuat kebiasaan. Silakan coba lagi nanti.</string>
+    <string name="no_habits_today">Tidak ada kebiasaan yang dijadwalkan untuk hari ini</string>
+    <string name="no_habits_created">Belum ada kebiasaan yang dibuat. Ketuk + untuk membuat kebiasaan pertama Anda!</string>
+    <string name="habit_deleted">Kebiasaan dihapus</string>
+    <string name="go_back">Kembali</string>
+    <string name="today">Hari Ini</string>
+    <string name="no_habits_today_short">Tidak ada kebiasaan hari ini</string>
+    <string name="widget_toggle_habit_label">Widget daftar kebiasaan</string>
+    <string name="refresh">Segarkan</string>
+
+    <string name="habit_activity">Aktivitas</string>
+    <string name="habit_last_12_weeks">12 minggu terakhir</string>
+    <string name="habit_activity_heatmap_info_desc">Info Heatmap Aktivitas</string>
+    <string name="habit_activity_heatmap_summary">%1$d dari %2$d hari terjadwal selesai dalam 12 minggu terakhir</string>
+    <string name="habit_checked">Dicentang</string>
+    <string name="habit_indeterminate">Tidak tentu</string>
+    <string name="habit_unchecked">Tidak dicentang</string>
+    <string name="habit_edit">Ubah</string>
+    <string name="habit_repeat_days">Hari Pengulangan</string>
+    <string name="habit_details_title">Detail Kebiasaan</string>
+    <string name="habit_navigate_back">Kembali</string>
+    <string name="habit_edit_habit">Ubah kebiasaan</string>
+    <string name="habit_weekly_consistency">Konsistensi Mingguan</string>
+    <string name="habit_last_30_days">30 hari terakhir</string>
+    <string name="habit_consistency_info_desc">Info Konsistensi</string>
+    <string name="habit_consistency_bar_scheduled_desc">%1$s, %2$d persen, %3$d dari %4$d selesai</string>
+    <string name="habit_consistency_bar_not_scheduled_desc">%1$s, tidak terjadwal</string>
+    <string name="habit_heatmap_description">Heatmap ini menunjukkan aktivitas Anda selama 12 minggu terakhir. Setiap kotak mewakili satu hari, dan intensitas warna menunjukkan kemajuan Anda.</string>
+    <string name="habit_consistency_description">Grafik ini menunjukkan seberapa konsisten Anda pada setiap hari dalam seminggu, dihitung dari total riwayat Anda.</string>
+    <string name="habit_colors_explanation">Warna menjelaskan kemajuan Anda:\n</string>
+    <string name="habit_full_color">Warna penuh</string>
+    <string name="habit_faded_color">Warna pudar</string>
+    <string name="habit_empty_square">Kotak kosong</string>
+    <string name="habit_consistency_benefit">Ini membantu Anda mengidentifikasi hari-hari mana Anda paling sukses dan di mana Anda mungkin butuh lebih banyak fokus.</string>
+    <string name="habit_current_streak_label">Streak Saat Ini</string>
+    <string name="habit_best_streak_label">Streak Terbaik</string>
+    <string name="habit_encouragement_msg">Terus semangat, Anda pasti bisa! 💪</string>
+    <string name="habit_habits_title">Kebiasaan</string>
+    <string name="habit_all_caps">SEMUA</string>
+    <string name="habit_habits_caps">KEBIASAAN</string>
+    <string name="habit_completion_rate">Tingkat Penyelesaian</string>
+    <string name="habit_last_7_days">7 hari terakhir</string>
+    <string name="habit_no_description">Tidak ada deskripsi</string>
+    <string name="habit_no_reminder">Tidak ada pengingat</string>
+    <string name="habit_view_details">Lihat detail</string>
+    <string name="habit_current_label">Saat Ini</string>
+    <string name="habit_best_label">Terbaik</string>
+    <string name="habit_partial">Sebagian</string>
+    <string name="habit_perfect">Sempurna</string>
+    <string name="habit_not_found">Kebiasaan tidak ditemukan</string>
+    <string name="unknown_error">Kesalahan tidak dikenal</string>
+    <string name="habit_perfect_days_footer">100% log • 7h terakhir</string>
+    <string name="perfect_day_label">Hari Sempurna</string>
+    <string name="perfect_days_label">Hari Sempurna</string>
+
+    <string name="section_late_night">Larut Malam (Tersembunyi atau Malam)</string>
+    <string name="section_morning">Pagi</string>
+    <string name="section_afternoon">Siang</string>
+    <string name="section_evening">Malam</string>
+    <string name="section_flexible">Fleksibel</string>
+
+    <!-- Habit Filter Options -->
+    <string name="filter_today">Hari Ini</string>
+    <string name="filter_yesterday">Kemarin</string>
+    <string name="filter_all">Semua</string>
+
+    <!-- Habit Status Names -->
+    <string name="status_none">Tidak ada</string>
+    <string name="status_completed">Selesai</string>
+    <string name="status_skipped">Dilewati</string>
+
+    <!-- Notification and Permissions -->
+    <string name="habit_reminder">Pengingat Kebiasaan</string>
+    <string name="habit_reminder_content">Sudah waktunya untuk %1$s</string>
+    <string name="notification_permission_required">Izin notifikasi diperlukan untuk menampilkan pengingat.</string>
+    <string name="enable">Aktifkan</string>
+
+    <!-- AppFunction Responses -->
+    <string name="no_habits_created_yet">Anda belum membuat kebiasaan apa pun.</string>
+    <string name="here_are_your_habits">Berikut adalah kebiasaan Anda:</string>
+    <string name="error_habit_name_empty">Kesalahan: Nama kebiasaan tidak boleh kosong.</string>
+    <string name="error_specify_at_least_one_day">Kesalahan: Harap tentukan setidaknya satu hari pengulangan.</string>
+    <string name="habit_created_successfully">Kebiasaan \'%1$s\' berhasil dibuat%2$s.</string>
+    <string name="alarm_scheduled">" dan alarm dijadwalkan"</string>
+    <string name="alarm_not_scheduled_permissions">" (alarm tidak dijadwalkan karena kurangnya izin)"</string>
+    <string name="error_invalid_state">Kesalahan: Status tidak valid \'%1$s\'. Gunakan \'NONE\', \'COMPLETED\', atau \'SKIPPED\'.</string>
+    <string name="error_habit_not_found">Kesalahan: Kebiasaan \'%1$s\' tidak ditemukan.</string>
+    <string name="successfully_logged_habit">Berhasil mencatat \'%1$s\' sebagai %2$s untuk hari ini.</string>
+    <string name="no_habits_scheduled_today">Anda tidak memiliki kebiasaan yang dijadwalkan untuk hari ini.</string>
+    <plurals name="successfully_marked_habits">
+        <item quantity="other">Berhasil menandai %1$d kebiasaan sebagai %2$s untuk hari ini.</item>
+    </plurals>
+</resources>

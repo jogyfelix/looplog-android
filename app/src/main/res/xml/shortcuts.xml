@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="add_habit"
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_add_habit"
+        android:shortcutShortLabel="@string/add_habit"
+        android:shortcutLongLabel="@string/add_habit">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.jolabs.looplog"
+            android:targetClass="com.jolabs.looplog.MainActivity"
+            android:data="looplog://habit/create?habitId=0" />
+    </shortcut>
+</shortcuts>

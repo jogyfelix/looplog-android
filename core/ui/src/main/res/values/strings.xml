@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="smart_habit_creation_title">Smart Habit Creation</string>
+    <string name="smart_habit_creation_description">Describe a goal and get smart habit suggestions tailored to your routine.</string>
+    <string name="smart_habit_creation_action">Try AI Creation</string>
+    <string name="smart_habit_creation_privacy">Private and suggestion-based</string>
+    <string name="add_habit_manually">Add habit manually</string>
+    <string name="import_habit">Import habit</string>
+    <string name="first_habit_title">Create your first habit</string>
+    <string name="first_habit_description">Start small and build a routine that works for you.</string>
+</resources>

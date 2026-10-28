@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_habit">आदत जोड़ें</string>
+    <string name="widget_add_habit_description">पलों में नई आदतें जोड़ें</string>
+    <string name="widget_toggle_habit_description">किसी भी समय आदतों को अपडेट करके निरंतर बने रहें</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="habit_name">आदत का नाम</string>
+    <string name="details">विवरण</string>
+    <string name="set_time_optional">समय सेट करें (वैकल्पिक)</string>
+    <string name="remove_time">समय हटाएं</string>
+    <string name="time_reminder">सेट किया गया समय आपको रिमाइंडर भेजेगा</string>
+    <string name="save_habit">आदत सुरक्षित करें</string>
+    <string name="longest_streak">सबसे लंबी स्ट्रीक : %1$s</string>
+    <string name="choose_time">समय चुनें</string>
+    <string name="set_time">समय सेट करें</string>
+    <string name="confirm">पुष्टि करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="repeat_on">दोहराएं</string>
+    <string name="every_day">हर दिन</string>
+    <string name="enter_a_habit_name">आदत का नाम दर्ज करें</string>
+    <string name="select_at_least_one_day">कम से कम एक दिन चुनें</string>
+    <string name="habit_saved">आदत सुरक्षित हो गई</string>
+    <string name="add">जोड़ें</string>
+    <string name="new_habit">नई आदत</string>
+    <string name="select_date">तारीख चुनें</string>
+    <string name="delete_habit">आदत हटाएं?</string>
+    <string name="delete_habit_desc">यह आदत और सभी प्रगति को हटा देगा। इस कार्रवाई को पूर्ववत नहीं किया जा सकता।</string>
+    <string name="dismiss">खारिज करें</string>
+    <string name="ai_habit_model_loading">डिवाइस पर AI मॉडल लोड हो रहा है…</string>
+    <string name="ai_habit_query_too_short">सुझाव बनाने के लिए कम से कम 5 अक्षर दर्ज करें</string>
+    <string name="ai_habit_english_only_title">अभी केवल अंग्रेज़ी</string>
+    <string name="ai_habit_english_only_error">AI से आदत बनाने की सुविधा अभी केवल अंग्रेज़ी भाषा का समर्थन करती है। अंग्रेज़ी में थोड़ा लंबा लक्ष्य लिखें।</string>
+    <string name="ai_habit_input_placeholder">अपना लक्ष्य दर्ज करें</string>
+    <string name="ai_habit_error_title">उस लक्ष्य को समझ नहीं सके</string>
+    <string name="ai_habit_error_body">चीज़ों को सुरक्षित और सरल रखने के लिए, हमारे स्थानीय सहायक ने उस अनुरोध को प्रोसेस नहीं किया। अपने लक्ष्य को दूसरे तरीके से लिखें।</string>
+    <string name="ai_habit_error_try_again">फिर से कोशिश करें</string>
+    <string name="ai_habit_error_content_description">आदतें बनाने में त्रुटि</string>
+    <string name="ai_habit_close">बंद करें</string>
+    <string name="ai_habit_suggestions_disclaimer">AI गलतियाँ कर सकता है। आगे बढ़ने से पहले सुझावों की जाँच करें।</string>
+    <string name="ai_habit_suggestions_generated">स्मार्ट सुझाव तैयार हैं</string>
+    <string name="ai_habit_empty_content_description">कोई आदत नहीं मिली</string>
+    <string name="ai_habit_empty_title">आप क्या सुधारना चाहते हैं?</string>
+    <string name="ai_habit_empty_body">जिस चीज़ को आप बदलना, बनाना या अधिक नियमित रूप से करना चाहते हैं, उससे शुरुआत करें।</string>
+    <plurals name="ai_habit_add_selected">
+        <item quantity="one">%1$d आदत जोड़ें</item>
+        <item quantity="other">%1$d आदतें जोड़ें</item>
+    </plurals>
+    <string name="ai_notice_title">AI का उपयोग करने से पहले</string>
+    <string name="ai_notice_intro">looplog आपके लक्ष्यों को व्यावहारिक आदतों में बदलने में मदद करने के लिए डिवाइस पर AI का उपयोग करता है।</string>
+    <string name="ai_notice_mistakes_title">AI गलतियाँ कर सकता है</string>
+    <string name="ai_notice_mistakes_body">सुझाव गलत, अनुपयुक्त या अधूरे हो सकते हैं। हर सुझाव को जोड़ने से पहले उसकी समीक्षा करें। चिकित्सा, मानसिक स्वास्थ्य, कानूनी, वित्तीय या अन्य पेशेवर सलाह के लिए इस सुविधा पर निर्भर न रहें।</string>
+    <string name="ai_notice_on_device_title">आपके डिवाइस पर प्रोसेस किया जाता है</string>
+    <string name="ai_notice_on_device_body">आपका लक्ष्य और बनाए गए सुझाव आपके डिवाइस पर प्रोसेस किए जाते हैं। looplog उनकी सामग्री को अपने सर्वर पर नहीं भेजता और न ही उन्हें एनालिटिक्स या त्रुटि रिपोर्ट में शामिल करता है।</string>
+    <string name="ai_notice_sensitive_title">अपनी जानकारी सुरक्षित रखें</string>
+    <string name="ai_notice_sensitive_body">looplog व्यक्तिगत या संवेदनशील जानकारी नहीं माँगता। ऐसी जानकारी दर्ज न करें जिसे आप अपने डिवाइस पर प्रोसेस नहीं करना चाहते।</string>
+    <string name="ai_notice_models">आपके डिवाइस के आधार पर, यह सुविधा Gemini Nano या स्थानीय रूप से इंस्टॉल किए गए Gemma 3 मॉडल का उपयोग करती है।</string>
+    <string name="ai_notice_telemetry">looplog तकनीकी AI घटनाएँ एकत्र करता है, जैसे कि जनरेशन सफल हुआ या नहीं और इसमें कितना समय लगा, लेकिन आपका लक्ष्य या बनाए गए सुझाव एकत्र नहीं करता।</string>
+    <string name="ai_notice_acknowledgement">जारी रखकर, आप इस AI सूचना को स्वीकार करते हैं। looplog का आपका उपयोग सेवा की शर्तों के अधीन रहेगा।</string>
+    <string name="ai_notice_continue">मैं समझता/समझती हूँ, जारी रखें</string>
+    <string name="ai_notice_not_now">अभी नहीं</string>
+    <string name="ai_notice_privacy_policy">गोपनीयता नीति</string>
+    <string name="ai_notice_terms">सेवा की शर्तें</string>
+    <string name="habit_load_error">आदतें लोड नहीं हो सकीं। कृपया बाद में पुन: प्रयास करें।</string>
+    <string name="no_habits_today">आज के लिए कोई आदत निर्धारित नहीं है</string>
+    <string name="no_habits_created">अभी तक कोई आदत नहीं बनाई गई है। अपनी पहली आदत बनाने के लिए + पर टैप करें!</string>
+    <string name="habit_deleted">आदत हटा दी गई</string>
+    <string name="go_back">पीछे जाएं</string>
+    <string name="today">आज</string>
+    <string name="no_habits_today_short">आज कोई आदत नहीं</string>
+    <string name="widget_toggle_habit_label">आदत सूची विजेट</string>
+    <string name="refresh">रिफ्रेश करें</string>
+
+    <string name="habit_activity">गतिविधि</string>
+    <string name="habit_last_12_weeks">पिछले 12 सप्ताह</string>
+    <string name="habit_activity_heatmap_info_desc">गतिविधि हीटमैप जानकारी</string>
+    <string name="habit_activity_heatmap_summary">पिछले 12 सप्ताह में %2$d में से %1$d निर्धारित दिन पूरे हुए</string>
+    <string name="habit_checked">चेक किया गया</string>
+    <string name="habit_indeterminate">अनिश्चित</string>
+    <string name="habit_unchecked">अनचेक किया गया</string>
+    <string name="habit_edit">संपादित करें</string>
+    <string name="habit_repeat_days">दोहराव के दिन</string>
+    <string name="habit_details_title">आदत का विवरण</string>
+    <string name="habit_navigate_back">पीछे नेविगेट करें</string>
+    <string name="habit_edit_habit">आदत संपादित करें</string>
+    <string name="habit_weekly_consistency">साप्ताहिक निरंतरता</string>
+    <string name="habit_last_30_days">पिछले 30 दिन</string>
+    <string name="habit_consistency_info_desc">निरंतरता की जानकारी</string>
+    <string name="habit_consistency_bar_scheduled_desc">%1$s, %2$d प्रतिशत, %3$d में से %4$d पूरे हुए</string>
+    <string name="habit_consistency_bar_not_scheduled_desc">%1$s, निर्धारित नहीं</string>
+    <string name="habit_heatmap_description">यह हीटमैप पिछले 12 सप्ताहों में आपकी गतिविधि को दर्शाता है। प्रत्येक वर्ग एक दिन का प्रतिनिधित्व करता है, और रंग की तीव्रता आपकी प्रगति को इंगित करती है।</string>
+    <string name="habit_consistency_description">यह चार्ट दिखाता है कि आप सप्ताह के प्रत्येक दिन कितने सुसंगत हैं, जिसकी गणना आपके कुल इतिहास से की जाती है।</string>
+    <string name="habit_colors_explanation">रंग आपकी प्रगति की व्याख्या करते हैं:\n</string>
+    <string name="habit_full_color">पूरा रंग</string>
+    <string name="habit_faded_color">हल्का रंग</string>
+    <string name="habit_empty_square">खाली वर्ग</string>
+    <string name="habit_consistency_benefit">यह आपको यह पहचानने में मदद करता है कि आप किन दिनों में सबसे सफल रहे हैं और आपको कहाँ अधिक ध्यान केंद्रित करने की आवश्यकता हो सकती है।</string>
+    <string name="habit_current_streak_label">वर्तमान स्ट्रीक</string>
+    <string name="habit_best_streak_label">सर्वश्रेष्ठ स्ट्रीक</string>
+    <string name="habit_encouragement_msg">जारी रखें, आप यह कर सकते हैं! 💪</string>
+    <string name="habit_habits_title">आदतें</string>
+    <string name="habit_all_caps">सभी</string>
+    <string name="habit_habits_caps">आदतें</string>
+    <string name="habit_completion_rate">पूर्णता दर</string>
+    <string name="habit_last_7_days">पिछले 7 दिन</string>
+    <string name="habit_no_description">कोई विवरण नहीं</string>
+    <string name="habit_no_reminder">कोई रिमाइंडर नहीं</string>
+    <string name="habit_view_details">विवरण देखें</string>
+    <string name="habit_current_label">वर्तमान</string>
+    <string name="habit_best_label">सर्वश्रेष्ठ</string>
+    <string name="habit_partial">आंशिक</string>
+    <string name="habit_perfect">उत्कृष्ट</string>
+    <string name="habit_not_found">आदत नहीं मिली</string>
+    <string name="unknown_error">अज्ञात त्रुटि</string>
+    <string name="habit_perfect_days_footer">100% लॉग • पिछले 7 दिन</string>
+    <string name="perfect_day_label">उत्कृष्ट दिवस</string>
+    <string name="perfect_days_label">उत्कृष्ट दिन</string>
+
+    <string name="section_late_night">देर रात (छिपा हुआ या शाम)</string>
+    <string name="section_morning">सुबह</string>
+    <string name="section_afternoon">दोपहर</string>
+    <string name="section_evening">शाम</string>
+    <string name="section_flexible">लचीला</string>
+
+    <!-- Habit Filter Options -->
+    <string name="filter_today">आज</string>
+    <string name="filter_yesterday">कल</string>
+    <string name="filter_all">सभी</string>
+
+    <!-- Habit Status Names -->
+    <string name="status_none">कोई नहीं</string>
+    <string name="status_completed">पूर्ण</string>
+    <string name="status_skipped">छोड़ा गया</string>
+
+    <!-- Notification and Permissions -->
+    <string name="habit_reminder">आदत रिमाइंडर</string>
+    <string name="habit_reminder_content">%1$s का समय हो गया है</string>
+    <string name="notification_permission_required">रिमाइंडर दिखाने के लिए नोटिफिकेशन अनुमति आवश्यक है।</string>
+    <string name="enable">सक्षम करें</string>
+
+    <!-- AppFunction Responses -->
+    <string name="no_habits_created_yet">आपने अभी तक कोई आदत नहीं बनाई है।</string>
+    <string name="here_are_your_habits">यहाँ आपकी आदतें हैं:</string>
+    <string name="error_habit_name_empty">त्रुटि: आदत का नाम खाली नहीं हो सकता।</string>
+    <string name="error_specify_at_least_one_day">त्रुटि: कृपया कम से कम एक दोहराव दिन निर्दिष्ट करें।</string>
+    <string name="habit_created_successfully">आदत \'%1$s\' सफलतापूर्वक बनाई गई%2$s।</string>
+    <string name="alarm_scheduled">" और अलार्म निर्धारित किया गया"</string>
+    <string name="alarm_not_scheduled_permissions">" (अनुमति न होने के कारण अलार्म निर्धारित नहीं किया गया)"</string>
+    <string name="error_invalid_state">त्रुटि: अमान्य स्थिति \'%1$s\'। \'NONE\', \'COMPLETED\', या \'SKIPPED\' का उपयोग करें।</string>
+    <string name="error_habit_not_found">त्रुटि: आदत \'%1$s\' नहीं मिली।</string>
+    <string name="successfully_logged_habit">आज के लिए \'%1$s\' को सफलतापूर्वक %2$s के रूप में दर्ज किया गया।</string>
+    <string name="no_habits_scheduled_today">आज के लिए आपकी कोई आदत निर्धारित नहीं है।</string>
+    <plurals name="successfully_marked_habits">
+        <item quantity="one">आज के लिए %1$d आदत को सफलतापूर्वक %2$s के रूप में चिह्नित किया गया।</item>
+        <item quantity="other">आज के लिए %1$d आदतों को सफलतापूर्वक %2$s के रूप में चिह्नित किया गया।</item>
+    </plurals>
+</resources>

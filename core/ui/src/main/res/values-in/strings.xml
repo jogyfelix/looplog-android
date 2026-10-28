@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="smart_habit_creation_title">Pembuatan Kebiasaan Cerdas</string>
+    <string name="smart_habit_creation_description">Jelaskan tujuan Anda dan dapatkan saran kebiasaan cerdas yang sesuai dengan rutinitas Anda.</string>
+    <string name="smart_habit_creation_action">Coba Buat dengan AI</string>
+    <string name="smart_habit_creation_privacy">Pribadi dan berbasis saran</string>
+    <string name="add_habit_manually">Tambah kebiasaan secara manual</string>
+    <string name="import_habit">Impor kebiasaan</string>
+    <string name="first_habit_title">Buat kebiasaan pertama Anda</string>
+    <string name="first_habit_description">Mulailah dari hal kecil dan bangun rutinitas yang cocok untuk Anda.</string>
+</resources>

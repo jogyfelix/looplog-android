@@ -1,0 +1,28 @@
+# Gradle and Android build output
+.gradle/
+**/build/
+local.properties
+*.apk
+*.apks
+*.aab
+
+# Credentials and production service configuration
+app/google-services.json
+sentry.properties
+*.jks
+*.keystore
+*.pem
+*.key
+.env
+.env.*
+
+# IDE and local tooling
+.idea/
+*.iml
+.DS_Store
+.kotlin/
+.artifacts/
+graphify-out/
+
+# Private model binaries
+*.litertlm

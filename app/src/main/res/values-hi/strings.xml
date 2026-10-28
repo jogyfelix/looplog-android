@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="update_ready">अपडेट उपलब्ध है</string>
+    <string name="new_version_desc">नवीनतम संस्करण इंस्टॉल के लिए तैयार है।</string>
+    <string name="install">इंस्टॉल करें</string>
+    <string name="later">बाद में</string>
+    <string name="update_grace_banner_message">एक आवश्यक अपडेट उपलब्ध है। ऐप का उपयोग जारी रखने के लिए कृपया %1$d दिन के भीतर इंटरनेट से कनेक्ट करें।</string>
+    <string name="update_required_title">अपडेट आवश्यक है</string>
+    <string name="update_required_message">आवश्यक अपडेट शुरू नहीं हो सका। कृपया अपना कनेक्शन जांचें और पुनः प्रयास करें।</string>
+    <string name="retry">पुनः प्रयास करें</string>
+    <string name="nav_habits">आदतें</string>
+    <string name="nav_stats">आंकड़े</string>
+    <string name="app_lock_locked_message">looplog लॉक है</string>
+    <string name="app_lock_unlock_button">अनलॉक करें</string>
+    <string name="rating_prompt_title">looplog पसंद आ रहा है?</string>
+    <string name="rating_prompt_message">क्या आपका ऐप के साथ अनुभव अच्छा रहा है? हमें आपकी राय जानना अच्छा लगेगा।</string>
+    <string name="rating_prompt_yes">हाँ</string>
+    <string name="rating_prompt_no">ज़्यादा नहीं</string>
+    <string name="notification_channel_name"><xliff:g id="app_name">looplog</xliff:g> अलार्म</string>
+    <string name="notification_channel_description"><xliff:g id="app_name">looplog</xliff:g> आदत रिमाइंडर्स के लिए चैनल</string>
+    <string name="push_notification_channel_name"><xliff:g id="app_name">looplog</xliff:g> अपडेट</string>
+    <string name="push_notification_channel_description"><xliff:g id="app_name">looplog</xliff:g> से समाचार और अपडेट</string>
+    <string name="reminder_permission_title">रिमाइंडर काम नहीं कर सकते</string>
+    <string name="reminder_alarm_permission_message">आदत रिमाइंडर्स को समय पर चलने के लिए "अलार्म और रिमाइंडर" अनुमति चाहिए। कृपया इसे सेटिंग्स में सक्षम करें।</string>
+    <string name="reminder_notification_permission_message">नोटिफिकेशन बंद हैं, इसलिए आदत रिमाइंडर नहीं दिखाए जा सकते। कृपया उन्हें सेटिंग्स में सक्षम करें।</string>
+    <string name="open_settings">सेटिंग्स खोलें</string>
+    <string name="app_functions_display_description">वॉइस कमांड और AI एजेंट का उपयोग करके अपनी आदतें बनाएँ और ट्रैक करें।</string>
+    <string name="changelog_version">संस्करण %1$s</string>
+    <string name="changelog_got_it">समझ गया</string>
+    <string name="changelog_view_all">सभी अपडेट देखें</string>
+</resources>

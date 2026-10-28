@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="smart_habit_creation_title">स्मार्ट आदत बनाएं</string>
+    <string name="smart_habit_creation_description">अपना लक्ष्य बताएं और अपनी दिनचर्या के अनुसार स्मार्ट आदत सुझाव पाएं।</string>
+    <string name="smart_habit_creation_action">AI से बनाएं</string>
+    <string name="smart_habit_creation_privacy">निजी और सुझाव-आधारित</string>
+    <string name="add_habit_manually">खुद आदत जोड़ें</string>
+    <string name="import_habit">आदतों को आयात करें</string>
+    <string name="first_habit_title">अपनी पहली आदत बनाएं</string>
+    <string name="first_habit_description">छोटी शुरुआत करें और अपने लिए सही दिनचर्या बनाएं।</string>
+</resources>

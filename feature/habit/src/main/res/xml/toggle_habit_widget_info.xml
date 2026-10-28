@@ -1,0 +1,10 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="120dp"
+    android:minHeight="80dp"
+    android:updatePeriodMillis="0"
+    android:resizeMode="horizontal|vertical"
+    android:description="@string/widget_toggle_habit_description"
+    android:widgetCategory="home_screen"
+    android:initialLayout="@layout/toggle_habit_widget_placeholder"
+    android:previewImage="@drawable/toggle_habit_preview"
+    />

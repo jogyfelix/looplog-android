@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppFunctionAppMetadata xmlns:appfn="http://schemas.android.com/apk/androidx.appfunctions"
+    appfn:description="This app enables habit creation, listing, and logging completion states.
+    Operational Patterns:
+    - Use 'listHabits' to discover existing habits before attempting to 'logHabitForToday'.
+    - Use 'createHabit' for new daily or weekly routines.
+    Constraints:
+    - Habit logging is specific to the current date."
+    appfn:displayDescription="@string/app_functions_display_description" />

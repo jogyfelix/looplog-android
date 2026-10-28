@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_habit">Add Habit</string>
+    <string name="widget_add_habit_description">Add new habits in seconds</string>
+    <string name="widget_toggle_habit_description">Stay consistent by updating habits anytime</string>
+    <string name="loading">Loading…</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="details">Details</string>
+    <string name="set_time_optional">Set Time (Optional)</string>
+    <string name="remove_time">Remove Time</string>
+    <string name="time_reminder">A set time will send you a reminder</string>
+    <string name="save_habit">Save Habit</string>
+    <string name="longest_streak">Longest Streak : %1$s</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="set_time">Set Time</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="repeat_on">Repeat On</string>
+    <string name="every_day">Every Day</string>
+    <string name="enter_a_habit_name">Enter a habit name</string>
+    <string name="select_at_least_one_day">Select at least one day</string>
+    <string name="habit_saved">Habit saved</string>
+    <string name="add">Add</string>
+    <string name="new_habit">New Habit</string>
+    <string name="select_date">Select Date</string>
+    <string name="delete_habit">Delete habit?</string>
+    <string name="delete_habit_desc">This will delete the habit and all progress. This action can’t be undone.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="ai_habit_model_loading">Loading the on-device AI model…</string>
+    <string name="ai_habit_query_too_short">Enter at least 5 characters to generate suggestions</string>
+    <string name="ai_habit_input_placeholder">Enter your goal</string>
+    <string name="ai_habit_quick_goal_morning" translatable="false">Build a healthier morning routine</string>
+    <string name="ai_habit_quick_goal_sleep" translatable="false">Improve my sleep schedule</string>
+    <string name="ai_habit_quick_goal_exercise" translatable="false">Exercise more consistently</string>
+    <string name="ai_habit_english_only_title">English Only for Now</string>
+    <string name="ai_habit_english_only_error">AI habit generation currently supports English only. Try a longer goal in English.</string>
+    <string name="ai_habit_error_title">Couldn’t Parse That Goal</string>
+    <string name="ai_habit_error_body">To keep things safe and simple, our local assistant didn’t process that request. Try rephrasing your goal.</string>
+    <string name="ai_habit_error_try_again">Try Again</string>
+    <string name="ai_habit_error_content_description">Error generating habits</string>
+    <string name="ai_habit_close">Close</string>
+    <string name="ai_habit_suggestions_disclaimer">AI can make mistakes. Check suggestions before proceeding.</string>
+    <string name="ai_habit_suggestions_generated">SMART SUGGESTIONS GENERATED</string>
+    <string name="ai_habit_empty_content_description">No habits found</string>
+    <string name="ai_habit_empty_title">What do you want to improve?</string>
+    <string name="ai_habit_empty_body">Start with anything you’d like to change, build, or do more consistently.</string>
+    <plurals name="ai_habit_add_selected">
+        <item quantity="one">Add %1$d Habit</item>
+        <item quantity="other">Add %1$d Habits</item>
+    </plurals>
+    <string name="ai_notice_title">Before you use AI</string>
+    <string name="ai_notice_intro">looplog uses on-device AI to help turn your goals into practical habits.</string>
+    <string name="ai_notice_mistakes_title">AI can make mistakes</string>
+    <string name="ai_notice_mistakes_body">Suggestions may be inaccurate, inappropriate, or incomplete. Review each suggestion before adding it. Do not rely on this feature for medical, mental-health, legal, financial, or other professional advice.</string>
+    <string name="ai_notice_on_device_title">Processed on your device</string>
+    <string name="ai_notice_on_device_body">Your goal and generated suggestions are processed on your device. looplog does not send their contents to its servers or include them in analytics or error reports.</string>
+    <string name="ai_notice_sensitive_title">Protect your information</string>
+    <string name="ai_notice_sensitive_body">looplog does not ask for personal or sensitive information. Avoid entering information you would not want processed on your device.</string>
+    <string name="ai_notice_models">Depending on your device, this feature uses Gemini Nano or a locally installed Gemma 3 model.</string>
+    <string name="ai_notice_telemetry">looplog collects technical AI events, such as whether generation succeeded and how long it took, without collecting your goal or generated suggestions.</string>
+    <string name="ai_notice_acknowledgement">By continuing, you acknowledge this AI notice. Your use of looplog remains subject to the Terms of Service.</string>
+    <string name="ai_notice_continue">I understand, continue</string>
+    <string name="ai_notice_not_now">Not now</string>
+    <string name="ai_notice_privacy_policy">Privacy Policy</string>
+    <string name="ai_notice_terms">Terms of Service</string>
+    <string name="ai_notice_privacy_url" translatable="false">https://portfolio.example.com/privacy.html</string>
+    <string name="ai_notice_terms_url" translatable="false">https://portfolio.example.com/terms.html</string>
+    <string name="habit_load_error">Couldn\'t load habits. Please try again later.</string>
+    <string name="no_habits_today">No habits scheduled for today</string>
+    <string name="no_habits_created">No habits created yet. Tap + to create your first habit!</string>
+    <string name="habit_deleted">Habit deleted</string>
+    <string name="go_back">Go back</string>
+    <string name="today">Today</string>
+    <string name="no_habits_today_short">No habits today</string>
+    <string name="widget_toggle_habit_label">Habit list widget</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="habit_activity">Activity</string>
+    <string name="habit_last_12_weeks">Last 12 weeks</string>
+    <string name="habit_activity_heatmap_info_desc">Activity Heatmap Info</string>
+    <string name="habit_activity_heatmap_summary">%1$d of %2$d scheduled days completed in the last 12 weeks</string>
+    <string name="habit_checked">Checked</string>
+    <string name="habit_indeterminate">Indeterminate</string>
+    <string name="habit_unchecked">Unchecked</string>
+    <string name="habit_edit">Edit</string>
+    <string name="habit_repeat_days">Repeat Days</string>
+    <string name="habit_details_title">Habit Details</string>
+    <string name="habit_navigate_back">Navigate back</string>
+    <string name="habit_edit_habit">Edit habit</string>
+    <string name="habit_weekly_consistency">Weekly Consistency</string>
+    <string name="habit_last_30_days">Last 30 days</string>
+    <string name="habit_consistency_info_desc">Consistency Info</string>
+    <string name="habit_consistency_bar_scheduled_desc">%1$s, %2$d percent, %3$d of %4$d completed</string>
+    <string name="habit_consistency_bar_not_scheduled_desc">%1$s, not scheduled</string>
+    <string name="habit_heatmap_description">This heatmap shows your activity over the last 12 weeks. Each square represents a day, and the color intensity indicates your progress.</string>
+    <string name="habit_consistency_description">This chart shows how consistent you are on each day of the week, calculated from your total history.</string>
+    <string name="habit_colors_explanation">Colors explain your progress:\n</string>
+    <string name="habit_full_color">Full color</string>
+    <string name="habit_faded_color">Faded color</string>
+    <string name="habit_empty_square">Empty square</string>
+    <string name="habit_consistency_benefit">It helps you identify which days you\'re most successful and where you might need more focus.</string>
+    <string name="habit_current_streak_label">Current Streak</string>
+    <string name="habit_best_streak_label">Best Streak</string>
+    <string name="habit_encouragement_msg">Keep going, you\'ve got this! 💪</string>
+    <string name="habit_habits_title">Habits</string>
+    <string name="habit_all_caps">ALL</string>
+    <string name="habit_habits_caps">HABITS</string>
+    <string name="habit_completion_rate">Completion Rate</string>
+    <string name="habit_last_7_days">Last 7 days</string>
+    <string name="habit_no_description">No description</string>
+    <string name="habit_no_reminder">No reminder</string>
+    <string name="habit_view_details">View details</string>
+    <string name="habit_current_label">Current</string>
+    <string name="habit_best_label">Best</string>
+    <string name="habit_partial">Partial</string>
+    <string name="habit_perfect">Perfect</string>
+    <string name="habit_not_found">Habit not found</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="habit_perfect_days_footer">100% logs • Last 7d</string>
+    <string name="perfect_day_label">Perfect Day</string>
+    <string name="perfect_days_label">Perfect Days</string>
+
+    <!-- Habit Sections -->
+    <string name="section_late_night">Late Night (Hidden or Evening)</string>
+    <string name="section_morning">Morning</string>
+    <string name="section_afternoon">Afternoon</string>
+    <string name="section_evening">Evening</string>
+    <string name="section_flexible">Flexible</string>
+
+    <!-- Habit Filter Options -->
+    <string name="filter_today">Today</string>
+    <string name="filter_yesterday">Yesterday</string>
+    <string name="filter_all">All</string>
+
+    <!-- Habit Status Names -->
+    <string name="status_none">None</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_skipped">Skipped</string>
+
+    <!-- Notification and Permissions -->
+    <string name="habit_reminder">Habit Reminder</string>
+    <string name="habit_reminder_content">It\'s time for %1$s</string>
+    <string name="notification_permission_required">Notification permission is required to show reminders.</string>
+    <string name="enable">Enable</string>
+
+    <!-- AppFunction Responses -->
+    <string name="no_habits_created_yet">You haven\'t created any habits yet.</string>
+    <string name="here_are_your_habits">Here are your habits:</string>
+    <string name="error_habit_name_empty">Error: Habit name cannot be empty.</string>
+    <string name="error_specify_at_least_one_day">Error: Please specify at least one repeat day.</string>
+    <string name="habit_created_successfully">Habit \'%1$s\' created successfully%2$s.</string>
+    <string name="alarm_scheduled">" and alarm scheduled"</string>
+    <string name="alarm_not_scheduled_permissions">" (alarm not scheduled due to missing permissions)"</string>
+    <string name="error_invalid_state">Error: Invalid state \'%1$s\'. Use \'NONE\', \'COMPLETED\', or \'SKIPPED\'.</string>
+    <string name="error_habit_not_found">Error: Habit \'%1$s\' not found.</string>
+    <string name="successfully_logged_habit">Successfully logged \'%1$s\' as %2$s for today.</string>
+    <string name="no_habits_scheduled_today">You have no habits scheduled for today.</string>
+    <plurals name="successfully_marked_habits">
+        <item quantity="one">Successfully marked %1$d habit as %2$s for today.</item>
+        <item quantity="other">Successfully marked %1$d habits as %2$s for today.</item>
+    </plurals>
+</resources>

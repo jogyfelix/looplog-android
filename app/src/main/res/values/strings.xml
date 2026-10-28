@@ -1,0 +1,32 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">looplog</string>
+    <string name="update_ready">Update Available</string>
+    <string name="new_version_desc">The latest version is ready to install.</string>
+    <string name="install">Install</string>
+    <string name="later">Later</string>
+    <string name="update_grace_banner_message">A required update is available. Please connect to the internet within %1$d day(s) to continue using the app.</string>
+    <string name="update_required_title">Update Required</string>
+    <string name="update_required_message">A required update could not be started. Please check your connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_stats">Stats</string>
+    <string name="app_lock_locked_message">looplog is locked</string>
+    <string name="app_lock_unlock_button">Unlock</string>
+    <string name="rating_prompt_title">Enjoying looplog?</string>
+    <string name="rating_prompt_message">Are you having a good experience with the app? We\'d love to hear from you.</string>
+    <string name="rating_prompt_yes">Yes</string>
+    <string name="rating_prompt_no">Not really</string>
+    <string name="notification_channel_name"><xliff:g id="app_name">looplog</xliff:g> Alarms</string>
+    <string name="notification_channel_description">Channel for <xliff:g id="app_name">looplog</xliff:g> habit reminders</string>
+    <string name="push_notification_channel_id" translatable="false">looplog_updates</string>
+    <string name="push_notification_channel_name"><xliff:g id="app_name">looplog</xliff:g> Updates</string>
+    <string name="push_notification_channel_description">News and updates from <xliff:g id="app_name">looplog</xliff:g></string>
+    <string name="reminder_permission_title">Reminders may not work</string>
+    <string name="reminder_alarm_permission_message">Habit reminders need the "Alarms &amp; reminders" permission to fire on time. Enable it in settings.</string>
+    <string name="reminder_notification_permission_message">Notifications are turned off, so habit reminders can\'t be shown. Enable them in settings.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="app_functions_display_description">Build and track your habits using voice commands and AI agents.</string>
+    <string name="changelog_version">Version %1$s</string>
+    <string name="changelog_got_it">Got it</string>
+    <string name="changelog_view_all">View all updates</string>
+</resources>
