@@ -1,6 +1,6 @@
-# LoopLog Android — Portfolio Snapshot
+# looplog Android
 
-LoopLog is a multi-module Android habit tracker built with Kotlin and Jetpack Compose. This repository is a sanitized, source-only snapshot published to demonstrate the application's architecture and implementation during interviews.
+looplog is a multi-module Android habit tracker built with Kotlin and Jetpack Compose. It supports habit scheduling, progress tracking, statistics, home-screen widgets, encrypted backups, biometric locking, and on-device AI-assisted habit creation.
 
 ## Highlights
 
@@ -30,19 +30,11 @@ core/utils/          Shared utilities
 model_pack/          Play Asset Delivery module definition; model binary omitted
 ```
 
-## Sanitization notice
+## Configuration
 
-This is not the production repository. The following are intentionally omitted:
+Service credentials and environment-specific files are not included. Firebase-backed features require an `app/google-services.json` file, Sentry requires project-specific configuration, and the Play Asset Delivery module requires a compatible LiteRT model binary.
 
-- Git history, branches, tags, and release artifacts
-- Firebase project configuration and API identifiers
-- Sentry DSN and production observability configuration
-- Signing keys and release credentials
-- Play Store and deployment automation
-- The private on-device model binary
-- Internal planning files and machine-specific configuration
-
-Some service-backed functionality therefore requires private configuration and this snapshot is not maintained as a standalone distribution. The production repository remains private.
+Android signing configuration is supplied separately for release builds. Local Android SDK configuration belongs in `local.properties`.
 
 ## Technology
 
@@ -50,6 +42,6 @@ Kotlin, Jetpack Compose, Material 3, Hilt, Room, DataStore, WorkManager, Navigat
 
 ## Rights
 
-Copyright © 2026. All rights reserved. This repository is source-visible for portfolio review only. No license is granted to copy, modify, distribute, sublicense, or commercially use the original project code or assets.
+Copyright © 2026. All rights reserved. No license is granted to copy, modify, distribute, sublicense, or commercially use the original project code or assets.
 
 Third-party components remain subject to their respective licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
